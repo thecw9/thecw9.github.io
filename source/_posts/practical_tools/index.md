@@ -1,17 +1,6 @@
 ---
 title: "实用工具"
 summary: "在日常生活中，我们经常会遇到各种各样的任务和挑战。有时候我们需要一些实用工具来帮助我们更好地完成这些任务。在本文中，我将向您介绍一些我个人认为非常实用的工具，这些工具可以帮助您更好地管理时间，提高生产力，并让您的生活更加轻松和高效。让我们一起探索这些实用工具吧！"
-categories: ["Product"]
-tags: ["roles","career","organization"]
-# externalUrl: ""
-showSummary: true
-date: 2023-03-05
-draft: false
-showauthor: false
-authors:
-  - thecw
-# series: ["The Complete PM"]
-# series\_order: 1
 ---
 
 ## 搜索工具

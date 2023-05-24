@@ -1,17 +1,6 @@
 ---
 title: "必学工具"
 summary: "在现代软件开发过程中，使用适当的工具可以大大提高效率和质量。在这个日新月异的技术领域，学习和掌握一些必备的软件工具是非常重要的。本文将介绍一些被广泛使用且具有重要性的软件工具，包括 WSL2、Vim、Git、GitHub、Docker、Linux、GNU Make等等。通过本文的介绍和指南，您可以了解这些工具的基本概念、用途和优点，并可以开始使用这些工具来提高您的软件开发技能和效率。无论是初学者还是经验丰富的开发人员，本文都将为您提供有价值的信息和指南。"
-categories: ["Product"]
-tags: ["roles","career","organization"]
-# externalUrl: ""
-showSummary: true
-date: 2023-03-05
-draft: false
-showauthor: false
-authors:
-  - thecw
-# series: ["The Complete PM"]
-# series\_order: 1
 ---
 
 在现代软件开发过程中，使用适当的工具可以大大提高效率和质量。在这个日新月异的技术领域，学习和掌握一些必备的软件工具是非常重要的。本文将介绍一些被广泛使用且具有重要性的软件工具，包括 WSL2、Vim、Git、GitHub、Docker、Linux、GNU Make等等。通过本文的介绍和指南，您可以了解这些工具的基本概念、用途和优点，并可以开始使用这些工具来提高您的软件开发技能和效率。无论是初学者还是经验丰富的开发人员，本文都将为您提供有价值的信息和指南。

@@ -1,17 +1,6 @@
 ---
 title: "信息检索"
 summary: "当今数字时代，信息已经成为我们生活中必不可少的一部分。但是，随着信息的爆炸式增长，人们往往会感到困惑和无从下手。信息检索是一种解决这个问题的方法，它是指从大量的信息中找到与特定需求相匹配的信息的过程。信息检索技术不仅在个人生活中有广泛应用，也在企业、学术研究、医疗保健等领域中扮演着重要角色。本文将介绍信息检索的基本原理、常用技术和相关应用，希望对读者了解信息检索有所帮助。"
-categories: ["Product"]
-tags: ["roles","career","organization"]
-# externalUrl: ""
-showSummary: true
-date: 2023-03-05
-draft: false
-showauthor: false
-authors:
-  - thecw
-# series: ["The Complete PM"]
-# series\_order: 1
 ---
 
 ## 前言
